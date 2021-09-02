@@ -1,0 +1,7 @@
+{
+  "name": "Student Course Manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
